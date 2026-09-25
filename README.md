@@ -1,3 +1,3 @@
-# Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning
+# [NeurIPS 2026] Overcoming Catastrophic Forgetting in Visual Continual Learning with Reinforcement Fine-Tuning
 
-The manuscript is currently under review. We are cleaning up and organizing the code, and will release it as open source as soon as possible.
+We are currently cleaning up and organizing the codebase and will open-source it as soon as possible.
