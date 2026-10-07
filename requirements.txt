@@ -1,0 +1,32 @@
+# Install PyTorch first (recommended training environment):
+#   pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 \
+#     --index-url https://download.pytorch.org/whl/cu124
+#
+# Then:
+#   pip install -r requirements.txt
+#
+# The training backend is the vendored `verl/` tree. Do not pip-install `verl`.
+
+accelerate
+codetiming
+datasets
+einops
+flash-attn>=2.4.3
+liger-kernel
+mathruler
+numpy
+omegaconf
+opencv-python-headless
+pandas
+peft
+pillow
+pyarrow>=15.0.0
+pycocotools
+pylatexenc
+qwen-vl-utils
+ray[default]==2.46.0
+tensordict
+torchdata
+transformers>=4.54.0,<=4.57.0
+vllm==0.8.1
+wandb

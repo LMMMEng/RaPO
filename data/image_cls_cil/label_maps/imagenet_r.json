@@ -1,0 +1,1406 @@
+{
+  "dataset": "imagenet_r",
+  "source": "imagenet-r/train class folders in the cleaned release",
+  "entries": [
+    {
+      "source_name": "African_chameleon",
+      "class_name": "African_chameleon",
+      "aliases": [
+        "n01694178"
+      ]
+    },
+    {
+      "source_name": "Granny_Smith",
+      "class_name": "Granny_Smith",
+      "aliases": [
+        "n07742313"
+      ]
+    },
+    {
+      "source_name": "accordion",
+      "class_name": "accordion",
+      "aliases": [
+        "n02672831"
+      ]
+    },
+    {
+      "source_name": "acorn",
+      "class_name": "acorn",
+      "aliases": [
+        "n12267677"
+      ]
+    },
+    {
+      "source_name": "afghan_hound",
+      "class_name": "afghan_hound",
+      "aliases": [
+        "n02088094"
+      ]
+    },
+    {
+      "source_name": "ambulance",
+      "class_name": "ambulance",
+      "aliases": [
+        "n02701002"
+      ]
+    },
+    {
+      "source_name": "american_egret",
+      "class_name": "american_egret",
+      "aliases": [
+        "n02009912"
+      ]
+    },
+    {
+      "source_name": "ant",
+      "class_name": "ant",
+      "aliases": [
+        "n02219486"
+      ]
+    },
+    {
+      "source_name": "assault_rifle",
+      "class_name": "assault_rifle",
+      "aliases": [
+        "n02749479"
+      ]
+    },
+    {
+      "source_name": "axolotl",
+      "class_name": "axolotl",
+      "aliases": [
+        "n01632777"
+      ]
+    },
+    {
+      "source_name": "baboon",
+      "class_name": "baboon",
+      "aliases": [
+        "n02486410"
+      ]
+    },
+    {
+      "source_name": "backpack",
+      "class_name": "backpack",
+      "aliases": [
+        "n02769748"
+      ]
+    },
+    {
+      "source_name": "badger",
+      "class_name": "badger",
+      "aliases": [
+        "n02447366"
+      ]
+    },
+    {
+      "source_name": "bagel",
+      "class_name": "bagel",
+      "aliases": [
+        "n07693725"
+      ]
+    },
+    {
+      "source_name": "bald_eagle",
+      "class_name": "bald_eagle",
+      "aliases": [
+        "n01614925"
+      ]
+    },
+    {
+      "source_name": "banana",
+      "class_name": "banana",
+      "aliases": [
+        "n07753592"
+      ]
+    },
+    {
+      "source_name": "barn",
+      "class_name": "barn",
+      "aliases": [
+        "n02793495"
+      ]
+    },
+    {
+      "source_name": "baseball_player",
+      "class_name": "baseball_player",
+      "aliases": [
+        "n09835506"
+      ]
+    },
+    {
+      "source_name": "basketball",
+      "class_name": "basketball",
+      "aliases": [
+        "n02802426"
+      ]
+    },
+    {
+      "source_name": "basset_hound",
+      "class_name": "basset_hound",
+      "aliases": [
+        "n02088238"
+      ]
+    },
+    {
+      "source_name": "bathtub",
+      "class_name": "bathtub",
+      "aliases": [
+        "n02808440"
+      ]
+    },
+    {
+      "source_name": "beagle",
+      "class_name": "beagle",
+      "aliases": [
+        "n02088364"
+      ]
+    },
+    {
+      "source_name": "beaver",
+      "class_name": "beaver",
+      "aliases": [
+        "n02363005"
+      ]
+    },
+    {
+      "source_name": "bee",
+      "class_name": "bee",
+      "aliases": [
+        "n02206856"
+      ]
+    },
+    {
+      "source_name": "beer_glass",
+      "class_name": "beer_glass",
+      "aliases": [
+        "n02823750"
+      ]
+    },
+    {
+      "source_name": "bell_pepper",
+      "class_name": "bell_pepper",
+      "aliases": [
+        "n07720875"
+      ]
+    },
+    {
+      "source_name": "binoculars",
+      "class_name": "binoculars",
+      "aliases": [
+        "n02841315"
+      ]
+    },
+    {
+      "source_name": "birdhouse",
+      "class_name": "birdhouse",
+      "aliases": [
+        "n02843684"
+      ]
+    },
+    {
+      "source_name": "bison",
+      "class_name": "bison",
+      "aliases": [
+        "n02410509"
+      ]
+    },
+    {
+      "source_name": "black_swan",
+      "class_name": "black_swan",
+      "aliases": [
+        "n01860187"
+      ]
+    },
+    {
+      "source_name": "bloodhound",
+      "class_name": "bloodhound",
+      "aliases": [
+        "n02088466"
+      ]
+    },
+    {
+      "source_name": "border_collie",
+      "class_name": "border_collie",
+      "aliases": [
+        "n02106166"
+      ]
+    },
+    {
+      "source_name": "boston_terrier",
+      "class_name": "boston_terrier",
+      "aliases": [
+        "n02096585"
+      ]
+    },
+    {
+      "source_name": "bow_tie",
+      "class_name": "bow_tie",
+      "aliases": [
+        "n02883205"
+      ]
+    },
+    {
+      "source_name": "boxer",
+      "class_name": "boxer",
+      "aliases": [
+        "n02108089"
+      ]
+    },
+    {
+      "source_name": "broccoli",
+      "class_name": "broccoli",
+      "aliases": [
+        "n07714990"
+      ]
+    },
+    {
+      "source_name": "broom",
+      "class_name": "broom",
+      "aliases": [
+        "n02906734"
+      ]
+    },
+    {
+      "source_name": "bucket",
+      "class_name": "bucket",
+      "aliases": [
+        "n02909870"
+      ]
+    },
+    {
+      "source_name": "burrito",
+      "class_name": "burrito",
+      "aliases": [
+        "n07880968"
+      ]
+    },
+    {
+      "source_name": "cabbage",
+      "class_name": "cabbage",
+      "aliases": [
+        "n07714571"
+      ]
+    },
+    {
+      "source_name": "candle",
+      "class_name": "candle",
+      "aliases": [
+        "n02948072"
+      ]
+    },
+    {
+      "source_name": "cannon",
+      "class_name": "cannon",
+      "aliases": [
+        "n02950826"
+      ]
+    },
+    {
+      "source_name": "canoe",
+      "class_name": "canoe",
+      "aliases": [
+        "n02951358"
+      ]
+    },
+    {
+      "source_name": "carousel",
+      "class_name": "carousel",
+      "aliases": [
+        "n02966193"
+      ]
+    },
+    {
+      "source_name": "castle",
+      "class_name": "castle",
+      "aliases": [
+        "n02980441"
+      ]
+    },
+    {
+      "source_name": "cauldron",
+      "class_name": "cauldron",
+      "aliases": [
+        "n02939185"
+      ]
+    },
+    {
+      "source_name": "centipede",
+      "class_name": "centipede",
+      "aliases": [
+        "n01784675"
+      ]
+    },
+    {
+      "source_name": "cheeseburger",
+      "class_name": "cheeseburger",
+      "aliases": [
+        "n07697313"
+      ]
+    },
+    {
+      "source_name": "cheetah",
+      "class_name": "cheetah",
+      "aliases": [
+        "n02130308"
+      ]
+    },
+    {
+      "source_name": "chihuahua",
+      "class_name": "chihuahua",
+      "aliases": [
+        "n02085620"
+      ]
+    },
+    {
+      "source_name": "chimpanzee",
+      "class_name": "chimpanzee",
+      "aliases": [
+        "n02481823"
+      ]
+    },
+    {
+      "source_name": "chow_chow",
+      "class_name": "chow_chow",
+      "aliases": [
+        "n02112137"
+      ]
+    },
+    {
+      "source_name": "clown_fish",
+      "class_name": "clown_fish",
+      "aliases": [
+        "n02607072"
+      ]
+    },
+    {
+      "source_name": "cobra",
+      "class_name": "cobra",
+      "aliases": [
+        "n01748264"
+      ]
+    },
+    {
+      "source_name": "cocker_spaniels",
+      "class_name": "cocker_spaniels",
+      "aliases": [
+        "n02102318"
+      ]
+    },
+    {
+      "source_name": "cockroach",
+      "class_name": "cockroach",
+      "aliases": [
+        "n02233338"
+      ]
+    },
+    {
+      "source_name": "collie",
+      "class_name": "collie",
+      "aliases": [
+        "n02106030"
+      ]
+    },
+    {
+      "source_name": "cowboy_hat",
+      "class_name": "cowboy_hat",
+      "aliases": [
+        "n03124170"
+      ]
+    },
+    {
+      "source_name": "cucumber",
+      "class_name": "cucumber",
+      "aliases": [
+        "n07718472"
+      ]
+    },
+    {
+      "source_name": "dalmatian",
+      "class_name": "dalmatian",
+      "aliases": [
+        "n02110341"
+      ]
+    },
+    {
+      "source_name": "dragonfly",
+      "class_name": "dragonfly",
+      "aliases": [
+        "n02268443"
+      ]
+    },
+    {
+      "source_name": "duck",
+      "class_name": "duck",
+      "aliases": [
+        "n01847000"
+      ]
+    },
+    {
+      "source_name": "eel",
+      "class_name": "eel",
+      "aliases": [
+        "n02526121"
+      ]
+    },
+    {
+      "source_name": "electric_guitar",
+      "class_name": "electric_guitar",
+      "aliases": [
+        "n03272010"
+      ]
+    },
+    {
+      "source_name": "espresso",
+      "class_name": "espresso",
+      "aliases": [
+        "n07920052"
+      ]
+    },
+    {
+      "source_name": "fire_engine",
+      "class_name": "fire_engine",
+      "aliases": [
+        "n03345487"
+      ]
+    },
+    {
+      "source_name": "flamingo",
+      "class_name": "flamingo",
+      "aliases": [
+        "n02007558"
+      ]
+    },
+    {
+      "source_name": "flute",
+      "class_name": "flute",
+      "aliases": [
+        "n03372029"
+      ]
+    },
+    {
+      "source_name": "fly",
+      "class_name": "fly",
+      "aliases": [
+        "n02190166"
+      ]
+    },
+    {
+      "source_name": "fox_squirrel",
+      "class_name": "fox_squirrel",
+      "aliases": [
+        "n02356798"
+      ]
+    },
+    {
+      "source_name": "french_bulldog",
+      "class_name": "french_bulldog",
+      "aliases": [
+        "n02108915"
+      ]
+    },
+    {
+      "source_name": "gasmask",
+      "class_name": "gasmask",
+      "aliases": [
+        "n03424325"
+      ]
+    },
+    {
+      "source_name": "gazelle",
+      "class_name": "gazelle",
+      "aliases": [
+        "n02423022"
+      ]
+    },
+    {
+      "source_name": "german_shepherd_dog",
+      "class_name": "german_shepherd_dog",
+      "aliases": [
+        "n02106662"
+      ]
+    },
+    {
+      "source_name": "gibbon",
+      "class_name": "gibbon",
+      "aliases": [
+        "n02483362"
+      ]
+    },
+    {
+      "source_name": "golden_retriever",
+      "class_name": "golden_retriever",
+      "aliases": [
+        "n02099601"
+      ]
+    },
+    {
+      "source_name": "goldfinch",
+      "class_name": "goldfinch",
+      "aliases": [
+        "n01531178"
+      ]
+    },
+    {
+      "source_name": "goldfish",
+      "class_name": "goldfish",
+      "aliases": [
+        "n01443537"
+      ]
+    },
+    {
+      "source_name": "goose",
+      "class_name": "goose",
+      "aliases": [
+        "n01855672"
+      ]
+    },
+    {
+      "source_name": "gorilla",
+      "class_name": "gorilla",
+      "aliases": [
+        "n02480855"
+      ]
+    },
+    {
+      "source_name": "grand_piano",
+      "class_name": "grand_piano",
+      "aliases": [
+        "n03452741"
+      ]
+    },
+    {
+      "source_name": "grasshopper",
+      "class_name": "grasshopper",
+      "aliases": [
+        "n02226429"
+      ]
+    },
+    {
+      "source_name": "great_white_shark",
+      "class_name": "great_white_shark",
+      "aliases": [
+        "n01484850"
+      ]
+    },
+    {
+      "source_name": "grey_whale",
+      "class_name": "grey_whale",
+      "aliases": [
+        "n02066245"
+      ]
+    },
+    {
+      "source_name": "guillotine",
+      "class_name": "guillotine",
+      "aliases": [
+        "n03467068"
+      ]
+    },
+    {
+      "source_name": "guinea_pig",
+      "class_name": "guinea_pig",
+      "aliases": [
+        "n02364673"
+      ]
+    },
+    {
+      "source_name": "hammer",
+      "class_name": "hammer",
+      "aliases": [
+        "n03481172"
+      ]
+    },
+    {
+      "source_name": "hammerhead",
+      "class_name": "hammerhead",
+      "aliases": [
+        "n01494475"
+      ]
+    },
+    {
+      "source_name": "harmonica",
+      "class_name": "harmonica",
+      "aliases": [
+        "n03494278"
+      ]
+    },
+    {
+      "source_name": "harp",
+      "class_name": "harp",
+      "aliases": [
+        "n03495258"
+      ]
+    },
+    {
+      "source_name": "hatchet",
+      "class_name": "hatchet",
+      "aliases": [
+        "n03498962"
+      ]
+    },
+    {
+      "source_name": "hen",
+      "class_name": "hen",
+      "aliases": [
+        "n01514859"
+      ]
+    },
+    {
+      "source_name": "hermit_crab",
+      "class_name": "hermit_crab",
+      "aliases": [
+        "n01986214"
+      ]
+    },
+    {
+      "source_name": "hippopotamus",
+      "class_name": "hippopotamus",
+      "aliases": [
+        "n02398521"
+      ]
+    },
+    {
+      "source_name": "hotdog",
+      "class_name": "hotdog",
+      "aliases": [
+        "n07697537"
+      ]
+    },
+    {
+      "source_name": "hummingbird",
+      "class_name": "hummingbird",
+      "aliases": [
+        "n01833805"
+      ]
+    },
+    {
+      "source_name": "husky",
+      "class_name": "husky",
+      "aliases": [
+        "n02110185"
+      ]
+    },
+    {
+      "source_name": "hyena",
+      "class_name": "hyena",
+      "aliases": [
+        "n02117135"
+      ]
+    },
+    {
+      "source_name": "ice_cream",
+      "class_name": "ice_cream",
+      "aliases": [
+        "n07614500"
+      ]
+    },
+    {
+      "source_name": "iguana",
+      "class_name": "iguana",
+      "aliases": [
+        "n01677366"
+      ]
+    },
+    {
+      "source_name": "italian_greyhound",
+      "class_name": "italian_greyhound",
+      "aliases": [
+        "n02091032"
+      ]
+    },
+    {
+      "source_name": "jeep",
+      "class_name": "jeep",
+      "aliases": [
+        "n03594945"
+      ]
+    },
+    {
+      "source_name": "jellyfish",
+      "class_name": "jellyfish",
+      "aliases": [
+        "n01910747"
+      ]
+    },
+    {
+      "source_name": "joystick",
+      "class_name": "joystick",
+      "aliases": [
+        "n03602883"
+      ]
+    },
+    {
+      "source_name": "junco",
+      "class_name": "junco",
+      "aliases": [
+        "n01534433"
+      ]
+    },
+    {
+      "source_name": "killer_whale",
+      "class_name": "killer_whale",
+      "aliases": [
+        "n02071294"
+      ]
+    },
+    {
+      "source_name": "king_penguin",
+      "class_name": "king_penguin",
+      "aliases": [
+        "n02056570"
+      ]
+    },
+    {
+      "source_name": "koala",
+      "class_name": "koala",
+      "aliases": [
+        "n01882714"
+      ]
+    },
+    {
+      "source_name": "lab_coat",
+      "class_name": "lab_coat",
+      "aliases": [
+        "n03630383"
+      ]
+    },
+    {
+      "source_name": "labrador_retriever",
+      "class_name": "labrador_retriever",
+      "aliases": [
+        "n02099712"
+      ]
+    },
+    {
+      "source_name": "ladybug",
+      "class_name": "ladybug",
+      "aliases": [
+        "n02165456"
+      ]
+    },
+    {
+      "source_name": "lawn_mower",
+      "class_name": "lawn_mower",
+      "aliases": [
+        "n03649909"
+      ]
+    },
+    {
+      "source_name": "lemon",
+      "class_name": "lemon",
+      "aliases": [
+        "n07749582"
+      ]
+    },
+    {
+      "source_name": "leopard",
+      "class_name": "leopard",
+      "aliases": [
+        "n02128385"
+      ]
+    },
+    {
+      "source_name": "lighthouse",
+      "class_name": "lighthouse",
+      "aliases": [
+        "n02814860"
+      ]
+    },
+    {
+      "source_name": "lion",
+      "class_name": "lion",
+      "aliases": [
+        "n02129165"
+      ]
+    },
+    {
+      "source_name": "lipstick",
+      "class_name": "lipstick",
+      "aliases": [
+        "n03676483"
+      ]
+    },
+    {
+      "source_name": "llama",
+      "class_name": "llama",
+      "aliases": [
+        "n02437616"
+      ]
+    },
+    {
+      "source_name": "lobster",
+      "class_name": "lobster",
+      "aliases": [
+        "n01983481"
+      ]
+    },
+    {
+      "source_name": "lorikeet",
+      "class_name": "lorikeet",
+      "aliases": [
+        "n01820546"
+      ]
+    },
+    {
+      "source_name": "mailbox",
+      "class_name": "mailbox",
+      "aliases": [
+        "n03710193"
+      ]
+    },
+    {
+      "source_name": "mantis",
+      "class_name": "mantis",
+      "aliases": [
+        "n02236044"
+      ]
+    },
+    {
+      "source_name": "meerkat",
+      "class_name": "meerkat",
+      "aliases": [
+        "n02138441"
+      ]
+    },
+    {
+      "source_name": "military_aircraft",
+      "class_name": "military_aircraft",
+      "aliases": [
+        "n04552348"
+      ]
+    },
+    {
+      "source_name": "missile",
+      "class_name": "missile",
+      "aliases": [
+        "n03773504"
+      ]
+    },
+    {
+      "source_name": "mitten",
+      "class_name": "mitten",
+      "aliases": [
+        "n03775071"
+      ]
+    },
+    {
+      "source_name": "mobile_phone",
+      "class_name": "mobile_phone",
+      "aliases": [
+        "n02992529"
+      ]
+    },
+    {
+      "source_name": "monarch_butterfly",
+      "class_name": "monarch_butterfly",
+      "aliases": [
+        "n02279972"
+      ]
+    },
+    {
+      "source_name": "mushroom",
+      "class_name": "mushroom",
+      "aliases": [
+        "n07734744"
+      ]
+    },
+    {
+      "source_name": "newt",
+      "class_name": "newt",
+      "aliases": [
+        "n01630670"
+      ]
+    },
+    {
+      "source_name": "orangutan",
+      "class_name": "orangutan",
+      "aliases": [
+        "n02480495"
+      ]
+    },
+    {
+      "source_name": "ostrich",
+      "class_name": "ostrich",
+      "aliases": [
+        "n01518878"
+      ]
+    },
+    {
+      "source_name": "panda",
+      "class_name": "panda",
+      "aliases": [
+        "n02510455"
+      ]
+    },
+    {
+      "source_name": "parachute",
+      "class_name": "parachute",
+      "aliases": [
+        "n03888257"
+      ]
+    },
+    {
+      "source_name": "peacock",
+      "class_name": "peacock",
+      "aliases": [
+        "n01806143"
+      ]
+    },
+    {
+      "source_name": "pelican",
+      "class_name": "pelican",
+      "aliases": [
+        "n02051845"
+      ]
+    },
+    {
+      "source_name": "pembroke_welsh_corgi",
+      "class_name": "pembroke_welsh_corgi",
+      "aliases": [
+        "n02113023"
+      ]
+    },
+    {
+      "source_name": "pickup_truck",
+      "class_name": "pickup_truck",
+      "aliases": [
+        "n03930630"
+      ]
+    },
+    {
+      "source_name": "pig",
+      "class_name": "pig",
+      "aliases": [
+        "n02395406"
+      ]
+    },
+    {
+      "source_name": "pineapple",
+      "class_name": "pineapple",
+      "aliases": [
+        "n07753275"
+      ]
+    },
+    {
+      "source_name": "pirate_ship",
+      "class_name": "pirate_ship",
+      "aliases": [
+        "n03947888"
+      ]
+    },
+    {
+      "source_name": "pizza",
+      "class_name": "pizza",
+      "aliases": [
+        "n07873807"
+      ]
+    },
+    {
+      "source_name": "polar_bear",
+      "class_name": "polar_bear",
+      "aliases": [
+        "n02134084"
+      ]
+    },
+    {
+      "source_name": "pomegranate",
+      "class_name": "pomegranate",
+      "aliases": [
+        "n07768694"
+      ]
+    },
+    {
+      "source_name": "pomeranian",
+      "class_name": "pomeranian",
+      "aliases": [
+        "n02112018"
+      ]
+    },
+    {
+      "source_name": "porcupine",
+      "class_name": "porcupine",
+      "aliases": [
+        "n02346627"
+      ]
+    },
+    {
+      "source_name": "pretzel",
+      "class_name": "pretzel",
+      "aliases": [
+        "n07695742"
+      ]
+    },
+    {
+      "source_name": "puffer_fish",
+      "class_name": "puffer_fish",
+      "aliases": [
+        "n02655020"
+      ]
+    },
+    {
+      "source_name": "pug",
+      "class_name": "pug",
+      "aliases": [
+        "n02110958"
+      ]
+    },
+    {
+      "source_name": "red_fox",
+      "class_name": "red_fox",
+      "aliases": [
+        "n02119022"
+      ]
+    },
+    {
+      "source_name": "revolver",
+      "class_name": "revolver",
+      "aliases": [
+        "n04086273"
+      ]
+    },
+    {
+      "source_name": "rottweiler",
+      "class_name": "rottweiler",
+      "aliases": [
+        "n02106550"
+      ]
+    },
+    {
+      "source_name": "rugby_ball",
+      "class_name": "rugby_ball",
+      "aliases": [
+        "n04118538"
+      ]
+    },
+    {
+      "source_name": "saint_bernard",
+      "class_name": "saint_bernard",
+      "aliases": [
+        "n02109525"
+      ]
+    },
+    {
+      "source_name": "sandal",
+      "class_name": "sandal",
+      "aliases": [
+        "n04133789"
+      ]
+    },
+    {
+      "source_name": "saxophone",
+      "class_name": "saxophone",
+      "aliases": [
+        "n04141076"
+      ]
+    },
+    {
+      "source_name": "scarf",
+      "class_name": "scarf",
+      "aliases": [
+        "n04325704"
+      ]
+    },
+    {
+      "source_name": "school_bus",
+      "class_name": "school_bus",
+      "aliases": [
+        "n04146614"
+      ]
+    },
+    {
+      "source_name": "schooner",
+      "class_name": "schooner",
+      "aliases": [
+        "n04147183"
+      ]
+    },
+    {
+      "source_name": "scorpion",
+      "class_name": "scorpion",
+      "aliases": [
+        "n01770393"
+      ]
+    },
+    {
+      "source_name": "scottish_terrier",
+      "class_name": "scottish_terrier",
+      "aliases": [
+        "n02097298"
+      ]
+    },
+    {
+      "source_name": "scuba_diver",
+      "class_name": "scuba_diver",
+      "aliases": [
+        "n10565667"
+      ]
+    },
+    {
+      "source_name": "sea_lion",
+      "class_name": "sea_lion",
+      "aliases": [
+        "n02077923"
+      ]
+    },
+    {
+      "source_name": "shield",
+      "class_name": "shield",
+      "aliases": [
+        "n04192698"
+      ]
+    },
+    {
+      "source_name": "shih_tzu",
+      "class_name": "shih_tzu",
+      "aliases": [
+        "n02086240"
+      ]
+    },
+    {
+      "source_name": "skunk",
+      "class_name": "skunk",
+      "aliases": [
+        "n02445715"
+      ]
+    },
+    {
+      "source_name": "snail",
+      "class_name": "snail",
+      "aliases": [
+        "n01944390"
+      ]
+    },
+    {
+      "source_name": "snow_leopard",
+      "class_name": "snow_leopard",
+      "aliases": [
+        "n02128757"
+      ]
+    },
+    {
+      "source_name": "soccer_ball",
+      "class_name": "soccer_ball",
+      "aliases": [
+        "n04254680"
+      ]
+    },
+    {
+      "source_name": "space_shuttle",
+      "class_name": "space_shuttle",
+      "aliases": [
+        "n04266014"
+      ]
+    },
+    {
+      "source_name": "spider_web",
+      "class_name": "spider_web",
+      "aliases": [
+        "n04275548"
+      ]
+    },
+    {
+      "source_name": "standard_poodle",
+      "class_name": "standard_poodle",
+      "aliases": [
+        "n02113799"
+      ]
+    },
+    {
+      "source_name": "starfish",
+      "class_name": "starfish",
+      "aliases": [
+        "n02317335"
+      ]
+    },
+    {
+      "source_name": "steam_locomotive",
+      "class_name": "steam_locomotive",
+      "aliases": [
+        "n04310018"
+      ]
+    },
+    {
+      "source_name": "stingray",
+      "class_name": "stingray",
+      "aliases": [
+        "n01498041"
+      ]
+    },
+    {
+      "source_name": "strawberry",
+      "class_name": "strawberry",
+      "aliases": [
+        "n07745940"
+      ]
+    },
+    {
+      "source_name": "submarine",
+      "class_name": "submarine",
+      "aliases": [
+        "n04347754"
+      ]
+    },
+    {
+      "source_name": "tabby_cat",
+      "class_name": "tabby_cat",
+      "aliases": [
+        "n02123045"
+      ]
+    },
+    {
+      "source_name": "tank",
+      "class_name": "tank",
+      "aliases": [
+        "n04389033"
+      ]
+    },
+    {
+      "source_name": "tarantula",
+      "class_name": "tarantula",
+      "aliases": [
+        "n01774750"
+      ]
+    },
+    {
+      "source_name": "tennis_ball",
+      "class_name": "tennis_ball",
+      "aliases": [
+        "n04409515"
+      ]
+    },
+    {
+      "source_name": "tiger",
+      "class_name": "tiger",
+      "aliases": [
+        "n02129604"
+      ]
+    },
+    {
+      "source_name": "timber_wolf",
+      "class_name": "timber_wolf",
+      "aliases": [
+        "n02114367"
+      ]
+    },
+    {
+      "source_name": "toucan",
+      "class_name": "toucan",
+      "aliases": [
+        "n01843383"
+      ]
+    },
+    {
+      "source_name": "toy_poodle",
+      "class_name": "toy_poodle",
+      "aliases": [
+        "n02113624"
+      ]
+    },
+    {
+      "source_name": "tractor",
+      "class_name": "tractor",
+      "aliases": [
+        "n04465501"
+      ]
+    },
+    {
+      "source_name": "tree_frog",
+      "class_name": "tree_frog",
+      "aliases": [
+        "n01644373"
+      ]
+    },
+    {
+      "source_name": "trombone",
+      "class_name": "trombone",
+      "aliases": [
+        "n04487394"
+      ]
+    },
+    {
+      "source_name": "vase",
+      "class_name": "vase",
+      "aliases": [
+        "n04522168"
+      ]
+    },
+    {
+      "source_name": "violin",
+      "class_name": "violin",
+      "aliases": [
+        "n04536866"
+      ]
+    },
+    {
+      "source_name": "volcano",
+      "class_name": "volcano",
+      "aliases": [
+        "n09472597"
+      ]
+    },
+    {
+      "source_name": "vulture",
+      "class_name": "vulture",
+      "aliases": [
+        "n01616318"
+      ]
+    },
+    {
+      "source_name": "weimaraner",
+      "class_name": "weimaraner",
+      "aliases": [
+        "n02092339"
+      ]
+    },
+    {
+      "source_name": "west_highland_white_terrier",
+      "class_name": "west_highland_white_terrier",
+      "aliases": [
+        "n02098286"
+      ]
+    },
+    {
+      "source_name": "wheelbarrow",
+      "class_name": "wheelbarrow",
+      "aliases": [
+        "n02797295"
+      ]
+    },
+    {
+      "source_name": "whippet",
+      "class_name": "whippet",
+      "aliases": [
+        "n02091134"
+      ]
+    },
+    {
+      "source_name": "wine_bottle",
+      "class_name": "wine_bottle",
+      "aliases": [
+        "n04591713"
+      ]
+    },
+    {
+      "source_name": "wood_rabbit",
+      "class_name": "wood_rabbit",
+      "aliases": [
+        "n02325366"
+      ]
+    },
+    {
+      "source_name": "yorkshire_terrier",
+      "class_name": "yorkshire_terrier",
+      "aliases": [
+        "n02094433"
+      ]
+    },
+    {
+      "source_name": "zebra",
+      "class_name": "zebra",
+      "aliases": [
+        "n02391049"
+      ]
+    }
+  ]
+}

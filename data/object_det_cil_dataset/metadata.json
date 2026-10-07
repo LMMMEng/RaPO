@@ -1,0 +1,19 @@
+{
+  "dataset": "coco2017_object_det_cil",
+  "build_mode": "packaged_selection",
+  "train_file": "train_5shots.jsonl",
+  "val_file": "val.jsonl",
+  "categories_file": "categories.json",
+  "train_records": 206,
+  "val_records": 4952,
+  "train_task_counts": {
+    "0": 22,
+    "1": 18,
+    "2": 62,
+    "3": 39,
+    "4": 65
+  },
+  "image_paths": "relative_to_COCO_IMAGE_ROOT",
+  "fewshot_shots": 5,
+  "fewshot_seed": 42
+}

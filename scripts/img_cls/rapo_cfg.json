@@ -1,0 +1,23 @@
+{
+  "ctan": {
+    "enable": true,
+    "beta": 0.999,
+    "eps": 1e-06,
+    "bootstrap_steps": 0,
+    "activate_from_task": 2,
+    "min_std": 0.001,
+    "guard_abs_max": 5.0,
+    "bias_correction": true,
+    "beta_warmup_steps": 2,
+    "beta_warmup_init": 0.9
+  },
+  "retention_reward": {
+    "enable": true,
+    "lambda_coef": 0.5,
+    "kl_scale": 20.0,
+    "activate_from_task": 2
+  },
+  "anchor_ref": {
+    "activate_from_task": 2
+  }
+}

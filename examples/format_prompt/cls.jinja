@@ -1,0 +1,10 @@
+<image>
+{{ content | trim }}
+Perform image classification on the given image. You MUST choose exactly one label from this list:
+{{ labels }}
+Output the reasoning process in <think> </think> and final answer in <answer> </answer>. 
+The output format should be as follows:
+<think> step-by-step reasoning here </think> <answer> one label from the list </answer>
+You MUST strictly follow the format. 
+Your answer MUST be one label from the list, character-for-character.
+No extra words, no punctuation, no explanations.

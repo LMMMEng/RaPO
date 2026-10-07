@@ -1,0 +1,13 @@
+<image>
+{{ content | trim }}
+Detect all objects in the image that belong to the following categories:
+{{ labels }}
+For each detected object, provide its category name and bounding box as [x1, y1, x2, y2] with coordinates normalized to 0-1000.
+Output the reasoning process in <think> </think> and detection results in <answer> </answer>.
+The output format should be:
+<think> step-by-step reasoning here </think>
+<answer>[{"category": "cat_name", "bbox": [x1, y1, x2, y2]}, ...]</answer>
+If no objects from the list are detected, output:
+<answer>[]</answer>
+You MUST strictly follow the JSON format inside <answer> tags.
+Each bbox must have exactly 4 integer coordinates in [0, 1000].

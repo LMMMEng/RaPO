@@ -1,0 +1,1006 @@
+{
+  "dataset": "cub",
+  "source": "CUB_200_2011/classes.txt",
+  "entries": [
+    {
+      "source_name": "001.Black_footed_Albatross",
+      "class_name": "Black_footed_Albatross",
+      "aliases": []
+    },
+    {
+      "source_name": "002.Laysan_Albatross",
+      "class_name": "Laysan_Albatross",
+      "aliases": []
+    },
+    {
+      "source_name": "003.Sooty_Albatross",
+      "class_name": "Sooty_Albatross",
+      "aliases": []
+    },
+    {
+      "source_name": "004.Groove_billed_Ani",
+      "class_name": "Groove_billed_Ani",
+      "aliases": []
+    },
+    {
+      "source_name": "005.Crested_Auklet",
+      "class_name": "Crested_Auklet",
+      "aliases": []
+    },
+    {
+      "source_name": "006.Least_Auklet",
+      "class_name": "Least_Auklet",
+      "aliases": []
+    },
+    {
+      "source_name": "007.Parakeet_Auklet",
+      "class_name": "Parakeet_Auklet",
+      "aliases": []
+    },
+    {
+      "source_name": "008.Rhinoceros_Auklet",
+      "class_name": "Rhinoceros_Auklet",
+      "aliases": []
+    },
+    {
+      "source_name": "009.Brewer_Blackbird",
+      "class_name": "Brewer_Blackbird",
+      "aliases": []
+    },
+    {
+      "source_name": "010.Red_winged_Blackbird",
+      "class_name": "Red_winged_Blackbird",
+      "aliases": []
+    },
+    {
+      "source_name": "011.Rusty_Blackbird",
+      "class_name": "Rusty_Blackbird",
+      "aliases": []
+    },
+    {
+      "source_name": "012.Yellow_headed_Blackbird",
+      "class_name": "Yellow_headed_Blackbird",
+      "aliases": []
+    },
+    {
+      "source_name": "013.Bobolink",
+      "class_name": "Bobolink",
+      "aliases": []
+    },
+    {
+      "source_name": "014.Indigo_Bunting",
+      "class_name": "Indigo_Bunting",
+      "aliases": []
+    },
+    {
+      "source_name": "015.Lazuli_Bunting",
+      "class_name": "Lazuli_Bunting",
+      "aliases": []
+    },
+    {
+      "source_name": "016.Painted_Bunting",
+      "class_name": "Painted_Bunting",
+      "aliases": []
+    },
+    {
+      "source_name": "017.Cardinal",
+      "class_name": "Cardinal",
+      "aliases": []
+    },
+    {
+      "source_name": "018.Spotted_Catbird",
+      "class_name": "Spotted_Catbird",
+      "aliases": []
+    },
+    {
+      "source_name": "019.Gray_Catbird",
+      "class_name": "Gray_Catbird",
+      "aliases": []
+    },
+    {
+      "source_name": "020.Yellow_breasted_Chat",
+      "class_name": "Yellow_breasted_Chat",
+      "aliases": []
+    },
+    {
+      "source_name": "021.Eastern_Towhee",
+      "class_name": "Eastern_Towhee",
+      "aliases": []
+    },
+    {
+      "source_name": "022.Chuck_will_Widow",
+      "class_name": "Chuck_will_Widow",
+      "aliases": []
+    },
+    {
+      "source_name": "023.Brandt_Cormorant",
+      "class_name": "Brandt_Cormorant",
+      "aliases": []
+    },
+    {
+      "source_name": "024.Red_faced_Cormorant",
+      "class_name": "Red_faced_Cormorant",
+      "aliases": []
+    },
+    {
+      "source_name": "025.Pelagic_Cormorant",
+      "class_name": "Pelagic_Cormorant",
+      "aliases": []
+    },
+    {
+      "source_name": "026.Bronzed_Cowbird",
+      "class_name": "Bronzed_Cowbird",
+      "aliases": []
+    },
+    {
+      "source_name": "027.Shiny_Cowbird",
+      "class_name": "Shiny_Cowbird",
+      "aliases": []
+    },
+    {
+      "source_name": "028.Brown_Creeper",
+      "class_name": "Brown_Creeper",
+      "aliases": []
+    },
+    {
+      "source_name": "029.American_Crow",
+      "class_name": "American_Crow",
+      "aliases": []
+    },
+    {
+      "source_name": "030.Fish_Crow",
+      "class_name": "Fish_Crow",
+      "aliases": []
+    },
+    {
+      "source_name": "031.Black_billed_Cuckoo",
+      "class_name": "Black_billed_Cuckoo",
+      "aliases": []
+    },
+    {
+      "source_name": "032.Mangrove_Cuckoo",
+      "class_name": "Mangrove_Cuckoo",
+      "aliases": []
+    },
+    {
+      "source_name": "033.Yellow_billed_Cuckoo",
+      "class_name": "Yellow_billed_Cuckoo",
+      "aliases": []
+    },
+    {
+      "source_name": "034.Gray_crowned_Rosy_Finch",
+      "class_name": "Gray_crowned_Rosy_Finch",
+      "aliases": []
+    },
+    {
+      "source_name": "035.Purple_Finch",
+      "class_name": "Purple_Finch",
+      "aliases": []
+    },
+    {
+      "source_name": "036.Northern_Flicker",
+      "class_name": "Northern_Flicker",
+      "aliases": []
+    },
+    {
+      "source_name": "037.Acadian_Flycatcher",
+      "class_name": "Acadian_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "038.Great_Crested_Flycatcher",
+      "class_name": "Great_Crested_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "039.Least_Flycatcher",
+      "class_name": "Least_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "040.Olive_sided_Flycatcher",
+      "class_name": "Olive_sided_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "041.Scissor_tailed_Flycatcher",
+      "class_name": "Scissor_tailed_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "042.Vermilion_Flycatcher",
+      "class_name": "Vermilion_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "043.Yellow_bellied_Flycatcher",
+      "class_name": "Yellow_bellied_Flycatcher",
+      "aliases": []
+    },
+    {
+      "source_name": "044.Frigatebird",
+      "class_name": "Frigatebird",
+      "aliases": []
+    },
+    {
+      "source_name": "045.Northern_Fulmar",
+      "class_name": "Northern_Fulmar",
+      "aliases": []
+    },
+    {
+      "source_name": "046.Gadwall",
+      "class_name": "Gadwall",
+      "aliases": []
+    },
+    {
+      "source_name": "047.American_Goldfinch",
+      "class_name": "American_Goldfinch",
+      "aliases": []
+    },
+    {
+      "source_name": "048.European_Goldfinch",
+      "class_name": "European_Goldfinch",
+      "aliases": []
+    },
+    {
+      "source_name": "049.Boat_tailed_Grackle",
+      "class_name": "Boat_tailed_Grackle",
+      "aliases": []
+    },
+    {
+      "source_name": "050.Eared_Grebe",
+      "class_name": "Eared_Grebe",
+      "aliases": []
+    },
+    {
+      "source_name": "051.Horned_Grebe",
+      "class_name": "Horned_Grebe",
+      "aliases": []
+    },
+    {
+      "source_name": "052.Pied_billed_Grebe",
+      "class_name": "Pied_billed_Grebe",
+      "aliases": []
+    },
+    {
+      "source_name": "053.Western_Grebe",
+      "class_name": "Western_Grebe",
+      "aliases": []
+    },
+    {
+      "source_name": "054.Blue_Grosbeak",
+      "class_name": "Blue_Grosbeak",
+      "aliases": []
+    },
+    {
+      "source_name": "055.Evening_Grosbeak",
+      "class_name": "Evening_Grosbeak",
+      "aliases": []
+    },
+    {
+      "source_name": "056.Pine_Grosbeak",
+      "class_name": "Pine_Grosbeak",
+      "aliases": []
+    },
+    {
+      "source_name": "057.Rose_breasted_Grosbeak",
+      "class_name": "Rose_breasted_Grosbeak",
+      "aliases": []
+    },
+    {
+      "source_name": "058.Pigeon_Guillemot",
+      "class_name": "Pigeon_Guillemot",
+      "aliases": []
+    },
+    {
+      "source_name": "059.California_Gull",
+      "class_name": "California_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "060.Glaucous_winged_Gull",
+      "class_name": "Glaucous_winged_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "061.Heermann_Gull",
+      "class_name": "Heermann_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "062.Herring_Gull",
+      "class_name": "Herring_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "063.Ivory_Gull",
+      "class_name": "Ivory_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "064.Ring_billed_Gull",
+      "class_name": "Ring_billed_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "065.Slaty_backed_Gull",
+      "class_name": "Slaty_backed_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "066.Western_Gull",
+      "class_name": "Western_Gull",
+      "aliases": []
+    },
+    {
+      "source_name": "067.Anna_Hummingbird",
+      "class_name": "Anna_Hummingbird",
+      "aliases": []
+    },
+    {
+      "source_name": "068.Ruby_throated_Hummingbird",
+      "class_name": "Ruby_throated_Hummingbird",
+      "aliases": []
+    },
+    {
+      "source_name": "069.Rufous_Hummingbird",
+      "class_name": "Rufous_Hummingbird",
+      "aliases": []
+    },
+    {
+      "source_name": "070.Green_Violetear",
+      "class_name": "Green_Violetear",
+      "aliases": []
+    },
+    {
+      "source_name": "071.Long_tailed_Jaeger",
+      "class_name": "Long_tailed_Jaeger",
+      "aliases": []
+    },
+    {
+      "source_name": "072.Pomarine_Jaeger",
+      "class_name": "Pomarine_Jaeger",
+      "aliases": []
+    },
+    {
+      "source_name": "073.Blue_Jay",
+      "class_name": "Blue_Jay",
+      "aliases": []
+    },
+    {
+      "source_name": "074.Florida_Jay",
+      "class_name": "Florida_Jay",
+      "aliases": []
+    },
+    {
+      "source_name": "075.Green_Jay",
+      "class_name": "Green_Jay",
+      "aliases": []
+    },
+    {
+      "source_name": "076.Dark_eyed_Junco",
+      "class_name": "Dark_eyed_Junco",
+      "aliases": []
+    },
+    {
+      "source_name": "077.Tropical_Kingbird",
+      "class_name": "Tropical_Kingbird",
+      "aliases": []
+    },
+    {
+      "source_name": "078.Gray_Kingbird",
+      "class_name": "Gray_Kingbird",
+      "aliases": []
+    },
+    {
+      "source_name": "079.Belted_Kingfisher",
+      "class_name": "Belted_Kingfisher",
+      "aliases": []
+    },
+    {
+      "source_name": "080.Green_Kingfisher",
+      "class_name": "Green_Kingfisher",
+      "aliases": []
+    },
+    {
+      "source_name": "081.Pied_Kingfisher",
+      "class_name": "Pied_Kingfisher",
+      "aliases": []
+    },
+    {
+      "source_name": "082.Ringed_Kingfisher",
+      "class_name": "Ringed_Kingfisher",
+      "aliases": []
+    },
+    {
+      "source_name": "083.White_breasted_Kingfisher",
+      "class_name": "White_breasted_Kingfisher",
+      "aliases": []
+    },
+    {
+      "source_name": "084.Red_legged_Kittiwake",
+      "class_name": "Red_legged_Kittiwake",
+      "aliases": []
+    },
+    {
+      "source_name": "085.Horned_Lark",
+      "class_name": "Horned_Lark",
+      "aliases": []
+    },
+    {
+      "source_name": "086.Pacific_Loon",
+      "class_name": "Pacific_Loon",
+      "aliases": []
+    },
+    {
+      "source_name": "087.Mallard",
+      "class_name": "Mallard",
+      "aliases": []
+    },
+    {
+      "source_name": "088.Western_Meadowlark",
+      "class_name": "Western_Meadowlark",
+      "aliases": []
+    },
+    {
+      "source_name": "089.Hooded_Merganser",
+      "class_name": "Hooded_Merganser",
+      "aliases": []
+    },
+    {
+      "source_name": "090.Red_breasted_Merganser",
+      "class_name": "Red_breasted_Merganser",
+      "aliases": []
+    },
+    {
+      "source_name": "091.Mockingbird",
+      "class_name": "Mockingbird",
+      "aliases": []
+    },
+    {
+      "source_name": "092.Nighthawk",
+      "class_name": "Nighthawk",
+      "aliases": []
+    },
+    {
+      "source_name": "093.Clark_Nutcracker",
+      "class_name": "Clark_Nutcracker",
+      "aliases": []
+    },
+    {
+      "source_name": "094.White_breasted_Nuthatch",
+      "class_name": "White_breasted_Nuthatch",
+      "aliases": []
+    },
+    {
+      "source_name": "095.Baltimore_Oriole",
+      "class_name": "Baltimore_Oriole",
+      "aliases": []
+    },
+    {
+      "source_name": "096.Hooded_Oriole",
+      "class_name": "Hooded_Oriole",
+      "aliases": []
+    },
+    {
+      "source_name": "097.Orchard_Oriole",
+      "class_name": "Orchard_Oriole",
+      "aliases": []
+    },
+    {
+      "source_name": "098.Scott_Oriole",
+      "class_name": "Scott_Oriole",
+      "aliases": []
+    },
+    {
+      "source_name": "099.Ovenbird",
+      "class_name": "Ovenbird",
+      "aliases": []
+    },
+    {
+      "source_name": "100.Brown_Pelican",
+      "class_name": "Brown_Pelican",
+      "aliases": []
+    },
+    {
+      "source_name": "101.White_Pelican",
+      "class_name": "White_Pelican",
+      "aliases": []
+    },
+    {
+      "source_name": "102.Western_Wood_Pewee",
+      "class_name": "Western_Wood_Pewee",
+      "aliases": []
+    },
+    {
+      "source_name": "103.Sayornis",
+      "class_name": "Sayornis",
+      "aliases": []
+    },
+    {
+      "source_name": "104.American_Pipit",
+      "class_name": "American_Pipit",
+      "aliases": []
+    },
+    {
+      "source_name": "105.Whip_poor_Will",
+      "class_name": "Whip_poor_Will",
+      "aliases": []
+    },
+    {
+      "source_name": "106.Horned_Puffin",
+      "class_name": "Horned_Puffin",
+      "aliases": []
+    },
+    {
+      "source_name": "107.Common_Raven",
+      "class_name": "Common_Raven",
+      "aliases": []
+    },
+    {
+      "source_name": "108.White_necked_Raven",
+      "class_name": "White_necked_Raven",
+      "aliases": []
+    },
+    {
+      "source_name": "109.American_Redstart",
+      "class_name": "American_Redstart",
+      "aliases": []
+    },
+    {
+      "source_name": "110.Geococcyx",
+      "class_name": "Geococcyx",
+      "aliases": []
+    },
+    {
+      "source_name": "111.Loggerhead_Shrike",
+      "class_name": "Loggerhead_Shrike",
+      "aliases": []
+    },
+    {
+      "source_name": "112.Great_Grey_Shrike",
+      "class_name": "Great_Grey_Shrike",
+      "aliases": []
+    },
+    {
+      "source_name": "113.Baird_Sparrow",
+      "class_name": "Baird_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "114.Black_throated_Sparrow",
+      "class_name": "Black_throated_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "115.Brewer_Sparrow",
+      "class_name": "Brewer_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "116.Chipping_Sparrow",
+      "class_name": "Chipping_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "117.Clay_colored_Sparrow",
+      "class_name": "Clay_colored_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "118.House_Sparrow",
+      "class_name": "House_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "119.Field_Sparrow",
+      "class_name": "Field_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "120.Fox_Sparrow",
+      "class_name": "Fox_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "121.Grasshopper_Sparrow",
+      "class_name": "Grasshopper_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "122.Harris_Sparrow",
+      "class_name": "Harris_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "123.Henslow_Sparrow",
+      "class_name": "Henslow_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "124.Le_Conte_Sparrow",
+      "class_name": "Le_Conte_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "125.Lincoln_Sparrow",
+      "class_name": "Lincoln_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "126.Nelson_Sharp_tailed_Sparrow",
+      "class_name": "Nelson_Sharp_tailed_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "127.Savannah_Sparrow",
+      "class_name": "Savannah_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "128.Seaside_Sparrow",
+      "class_name": "Seaside_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "129.Song_Sparrow",
+      "class_name": "Song_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "130.Tree_Sparrow",
+      "class_name": "Tree_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "131.Vesper_Sparrow",
+      "class_name": "Vesper_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "132.White_crowned_Sparrow",
+      "class_name": "White_crowned_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "133.White_throated_Sparrow",
+      "class_name": "White_throated_Sparrow",
+      "aliases": []
+    },
+    {
+      "source_name": "134.Cape_Glossy_Starling",
+      "class_name": "Cape_Glossy_Starling",
+      "aliases": []
+    },
+    {
+      "source_name": "135.Bank_Swallow",
+      "class_name": "Bank_Swallow",
+      "aliases": []
+    },
+    {
+      "source_name": "136.Barn_Swallow",
+      "class_name": "Barn_Swallow",
+      "aliases": []
+    },
+    {
+      "source_name": "137.Cliff_Swallow",
+      "class_name": "Cliff_Swallow",
+      "aliases": []
+    },
+    {
+      "source_name": "138.Tree_Swallow",
+      "class_name": "Tree_Swallow",
+      "aliases": []
+    },
+    {
+      "source_name": "139.Scarlet_Tanager",
+      "class_name": "Scarlet_Tanager",
+      "aliases": []
+    },
+    {
+      "source_name": "140.Summer_Tanager",
+      "class_name": "Summer_Tanager",
+      "aliases": []
+    },
+    {
+      "source_name": "141.Artic_Tern",
+      "class_name": "Artic_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "142.Black_Tern",
+      "class_name": "Black_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "143.Caspian_Tern",
+      "class_name": "Caspian_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "144.Common_Tern",
+      "class_name": "Common_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "145.Elegant_Tern",
+      "class_name": "Elegant_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "146.Forsters_Tern",
+      "class_name": "Forsters_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "147.Least_Tern",
+      "class_name": "Least_Tern",
+      "aliases": []
+    },
+    {
+      "source_name": "148.Green_tailed_Towhee",
+      "class_name": "Green_tailed_Towhee",
+      "aliases": []
+    },
+    {
+      "source_name": "149.Brown_Thrasher",
+      "class_name": "Brown_Thrasher",
+      "aliases": []
+    },
+    {
+      "source_name": "150.Sage_Thrasher",
+      "class_name": "Sage_Thrasher",
+      "aliases": []
+    },
+    {
+      "source_name": "151.Black_capped_Vireo",
+      "class_name": "Black_capped_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "152.Blue_headed_Vireo",
+      "class_name": "Blue_headed_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "153.Philadelphia_Vireo",
+      "class_name": "Philadelphia_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "154.Red_eyed_Vireo",
+      "class_name": "Red_eyed_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "155.Warbling_Vireo",
+      "class_name": "Warbling_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "156.White_eyed_Vireo",
+      "class_name": "White_eyed_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "157.Yellow_throated_Vireo",
+      "class_name": "Yellow_throated_Vireo",
+      "aliases": []
+    },
+    {
+      "source_name": "158.Bay_breasted_Warbler",
+      "class_name": "Bay_breasted_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "159.Black_and_white_Warbler",
+      "class_name": "Black_and_white_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "160.Black_throated_Blue_Warbler",
+      "class_name": "Black_throated_Blue_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "161.Blue_winged_Warbler",
+      "class_name": "Blue_winged_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "162.Canada_Warbler",
+      "class_name": "Canada_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "163.Cape_May_Warbler",
+      "class_name": "Cape_May_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "164.Cerulean_Warbler",
+      "class_name": "Cerulean_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "165.Chestnut_sided_Warbler",
+      "class_name": "Chestnut_sided_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "166.Golden_winged_Warbler",
+      "class_name": "Golden_winged_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "167.Hooded_Warbler",
+      "class_name": "Hooded_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "168.Kentucky_Warbler",
+      "class_name": "Kentucky_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "169.Magnolia_Warbler",
+      "class_name": "Magnolia_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "170.Mourning_Warbler",
+      "class_name": "Mourning_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "171.Myrtle_Warbler",
+      "class_name": "Myrtle_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "172.Nashville_Warbler",
+      "class_name": "Nashville_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "173.Orange_crowned_Warbler",
+      "class_name": "Orange_crowned_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "174.Palm_Warbler",
+      "class_name": "Palm_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "175.Pine_Warbler",
+      "class_name": "Pine_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "176.Prairie_Warbler",
+      "class_name": "Prairie_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "177.Prothonotary_Warbler",
+      "class_name": "Prothonotary_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "178.Swainson_Warbler",
+      "class_name": "Swainson_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "179.Tennessee_Warbler",
+      "class_name": "Tennessee_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "180.Wilson_Warbler",
+      "class_name": "Wilson_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "181.Worm_eating_Warbler",
+      "class_name": "Worm_eating_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "182.Yellow_Warbler",
+      "class_name": "Yellow_Warbler",
+      "aliases": []
+    },
+    {
+      "source_name": "183.Northern_Waterthrush",
+      "class_name": "Northern_Waterthrush",
+      "aliases": []
+    },
+    {
+      "source_name": "184.Louisiana_Waterthrush",
+      "class_name": "Louisiana_Waterthrush",
+      "aliases": []
+    },
+    {
+      "source_name": "185.Bohemian_Waxwing",
+      "class_name": "Bohemian_Waxwing",
+      "aliases": []
+    },
+    {
+      "source_name": "186.Cedar_Waxwing",
+      "class_name": "Cedar_Waxwing",
+      "aliases": []
+    },
+    {
+      "source_name": "187.American_Three_toed_Woodpecker",
+      "class_name": "American_Three_toed_Woodpecker",
+      "aliases": []
+    },
+    {
+      "source_name": "188.Pileated_Woodpecker",
+      "class_name": "Pileated_Woodpecker",
+      "aliases": []
+    },
+    {
+      "source_name": "189.Red_bellied_Woodpecker",
+      "class_name": "Red_bellied_Woodpecker",
+      "aliases": []
+    },
+    {
+      "source_name": "190.Red_cockaded_Woodpecker",
+      "class_name": "Red_cockaded_Woodpecker",
+      "aliases": []
+    },
+    {
+      "source_name": "191.Red_headed_Woodpecker",
+      "class_name": "Red_headed_Woodpecker",
+      "aliases": []
+    },
+    {
+      "source_name": "192.Downy_Woodpecker",
+      "class_name": "Downy_Woodpecker",
+      "aliases": []
+    },
+    {
+      "source_name": "193.Bewick_Wren",
+      "class_name": "Bewick_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "194.Cactus_Wren",
+      "class_name": "Cactus_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "195.Carolina_Wren",
+      "class_name": "Carolina_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "196.House_Wren",
+      "class_name": "House_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "197.Marsh_Wren",
+      "class_name": "Marsh_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "198.Rock_Wren",
+      "class_name": "Rock_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "199.Winter_Wren",
+      "class_name": "Winter_Wren",
+      "aliases": []
+    },
+    {
+      "source_name": "200.Common_Yellowthroat",
+      "class_name": "Common_Yellowthroat",
+      "aliases": []
+    }
+  ]
+}

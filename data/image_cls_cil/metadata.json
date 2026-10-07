@@ -1,0 +1,10 @@
+{
+  "fewshot_shots": 5,
+  "fewshot_seed": 42,
+  "counts": {
+    "tinyimagenet": 1000,
+    "cub": 1000,
+    "imagenet_r": 1000,
+    "imagenet_a": 985
+  }
+}

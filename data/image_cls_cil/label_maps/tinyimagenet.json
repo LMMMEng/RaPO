@@ -1,0 +1,1591 @@
+{
+  "dataset": "tinyimagenet",
+  "source": "tiny-imagenet-200/wnids.txt and words.txt",
+  "entries": [
+    {
+      "source_name": "n02124075",
+      "class_name": "Egyptian_cat",
+      "aliases": [
+        "Egyptian cat"
+      ]
+    },
+    {
+      "source_name": "n04067472",
+      "class_name": "reel",
+      "aliases": [
+        "reel"
+      ]
+    },
+    {
+      "source_name": "n04540053",
+      "class_name": "volleyball",
+      "aliases": [
+        "volleyball"
+      ]
+    },
+    {
+      "source_name": "n04099969",
+      "class_name": "rocking_chair",
+      "aliases": [
+        "rocking chair",
+        "rocker"
+      ]
+    },
+    {
+      "source_name": "n07749582",
+      "class_name": "lemon",
+      "aliases": [
+        "lemon"
+      ]
+    },
+    {
+      "source_name": "n01641577",
+      "class_name": "bullfrog",
+      "aliases": [
+        "bullfrog",
+        "Rana catesbeiana"
+      ]
+    },
+    {
+      "source_name": "n02802426",
+      "class_name": "basketball",
+      "aliases": [
+        "basketball"
+      ]
+    },
+    {
+      "source_name": "n09246464",
+      "class_name": "cliff",
+      "aliases": [
+        "cliff",
+        "drop",
+        "drop-off"
+      ]
+    },
+    {
+      "source_name": "n07920052",
+      "class_name": "espresso",
+      "aliases": [
+        "espresso"
+      ]
+    },
+    {
+      "source_name": "n03970156",
+      "class_name": "plunger",
+      "aliases": [
+        "plunger",
+        "plumber's helper"
+      ]
+    },
+    {
+      "source_name": "n03891332",
+      "class_name": "parking_meter",
+      "aliases": [
+        "parking meter"
+      ]
+    },
+    {
+      "source_name": "n02106662",
+      "class_name": "German_shepherd",
+      "aliases": [
+        "German shepherd",
+        "German shepherd dog",
+        "German police dog",
+        "alsatian"
+      ]
+    },
+    {
+      "source_name": "n03201208",
+      "class_name": "dining_table",
+      "aliases": [
+        "dining table",
+        "board"
+      ]
+    },
+    {
+      "source_name": "n02279972",
+      "class_name": "monarch",
+      "aliases": [
+        "monarch",
+        "monarch butterfly",
+        "milkweed butterfly",
+        "Danaus plexippus"
+      ]
+    },
+    {
+      "source_name": "n02132136",
+      "class_name": "brown_bear",
+      "aliases": [
+        "brown bear",
+        "bruin",
+        "Ursus arctos"
+      ]
+    },
+    {
+      "source_name": "n04146614",
+      "class_name": "school_bus",
+      "aliases": [
+        "school bus"
+      ]
+    },
+    {
+      "source_name": "n07873807",
+      "class_name": "pizza",
+      "aliases": [
+        "pizza",
+        "pizza pie"
+      ]
+    },
+    {
+      "source_name": "n02364673",
+      "class_name": "guinea_pig",
+      "aliases": [
+        "guinea pig",
+        "Cavia cobaya"
+      ]
+    },
+    {
+      "source_name": "n04507155",
+      "class_name": "umbrella",
+      "aliases": [
+        "umbrella"
+      ]
+    },
+    {
+      "source_name": "n03854065",
+      "class_name": "organ",
+      "aliases": [
+        "organ",
+        "pipe organ"
+      ]
+    },
+    {
+      "source_name": "n03838899",
+      "class_name": "oboe",
+      "aliases": [
+        "oboe",
+        "hautboy",
+        "hautbois"
+      ]
+    },
+    {
+      "source_name": "n03733131",
+      "class_name": "maypole",
+      "aliases": [
+        "maypole"
+      ]
+    },
+    {
+      "source_name": "n01443537",
+      "class_name": "goldfish",
+      "aliases": [
+        "goldfish",
+        "Carassius auratus"
+      ]
+    },
+    {
+      "source_name": "n07875152",
+      "class_name": "potpie",
+      "aliases": [
+        "potpie"
+      ]
+    },
+    {
+      "source_name": "n03544143",
+      "class_name": "hourglass",
+      "aliases": [
+        "hourglass"
+      ]
+    },
+    {
+      "source_name": "n09428293",
+      "class_name": "seashore",
+      "aliases": [
+        "seashore",
+        "coast",
+        "seacoast",
+        "sea-coast"
+      ]
+    },
+    {
+      "source_name": "n03085013",
+      "class_name": "computer_keyboard",
+      "aliases": [
+        "computer keyboard",
+        "keypad"
+      ]
+    },
+    {
+      "source_name": "n02437312",
+      "class_name": "Arabian_camel",
+      "aliases": [
+        "Arabian camel",
+        "dromedary",
+        "Camelus dromedarius"
+      ]
+    },
+    {
+      "source_name": "n07614500",
+      "class_name": "ice_cream",
+      "aliases": [
+        "ice cream",
+        "icecream"
+      ]
+    },
+    {
+      "source_name": "n03804744",
+      "class_name": "nail",
+      "aliases": [
+        "nail"
+      ]
+    },
+    {
+      "source_name": "n04265275",
+      "class_name": "space_heater",
+      "aliases": [
+        "space heater"
+      ]
+    },
+    {
+      "source_name": "n02963159",
+      "class_name": "cardigan",
+      "aliases": [
+        "cardigan"
+      ]
+    },
+    {
+      "source_name": "n02486410",
+      "class_name": "baboon",
+      "aliases": [
+        "baboon"
+      ]
+    },
+    {
+      "source_name": "n01944390",
+      "class_name": "snail",
+      "aliases": [
+        "snail"
+      ]
+    },
+    {
+      "source_name": "n09256479",
+      "class_name": "coral_reef",
+      "aliases": [
+        "coral reef"
+      ]
+    },
+    {
+      "source_name": "n02058221",
+      "class_name": "albatross",
+      "aliases": [
+        "albatross",
+        "mollymawk"
+      ]
+    },
+    {
+      "source_name": "n04275548",
+      "class_name": "spider_web",
+      "aliases": [
+        "spider web",
+        "spider's web"
+      ]
+    },
+    {
+      "source_name": "n02321529",
+      "class_name": "sea_cucumber",
+      "aliases": [
+        "sea cucumber",
+        "holothurian"
+      ]
+    },
+    {
+      "source_name": "n02769748",
+      "class_name": "backpack",
+      "aliases": [
+        "backpack",
+        "back pack",
+        "knapsack",
+        "packsack",
+        "rucksack",
+        "haversack"
+      ]
+    },
+    {
+      "source_name": "n02099712",
+      "class_name": "Labrador_retriever",
+      "aliases": [
+        "Labrador retriever"
+      ]
+    },
+    {
+      "source_name": "n07695742",
+      "class_name": "pretzel",
+      "aliases": [
+        "pretzel"
+      ]
+    },
+    {
+      "source_name": "n02056570",
+      "class_name": "king_penguin",
+      "aliases": [
+        "king penguin",
+        "Aptenodytes patagonica"
+      ]
+    },
+    {
+      "source_name": "n02281406",
+      "class_name": "sulphur_butterfly",
+      "aliases": [
+        "sulphur butterfly",
+        "sulfur butterfly"
+      ]
+    },
+    {
+      "source_name": "n01774750",
+      "class_name": "tarantula",
+      "aliases": [
+        "tarantula"
+      ]
+    },
+    {
+      "source_name": "n02509815",
+      "class_name": "lesser_panda",
+      "aliases": [
+        "lesser panda",
+        "red panda",
+        "panda",
+        "bear cat",
+        "cat bear",
+        "Ailurus fulgens"
+      ]
+    },
+    {
+      "source_name": "n03983396",
+      "class_name": "pop_bottle",
+      "aliases": [
+        "pop bottle",
+        "soda bottle"
+      ]
+    },
+    {
+      "source_name": "n07753592",
+      "class_name": "banana",
+      "aliases": [
+        "banana"
+      ]
+    },
+    {
+      "source_name": "n04254777",
+      "class_name": "sock",
+      "aliases": [
+        "sock"
+      ]
+    },
+    {
+      "source_name": "n02233338",
+      "class_name": "cockroach",
+      "aliases": [
+        "cockroach",
+        "roach"
+      ]
+    },
+    {
+      "source_name": "n04008634",
+      "class_name": "projectile",
+      "aliases": [
+        "projectile",
+        "missile"
+      ]
+    },
+    {
+      "source_name": "n02823428",
+      "class_name": "beer_bottle",
+      "aliases": [
+        "beer bottle"
+      ]
+    },
+    {
+      "source_name": "n02236044",
+      "class_name": "mantis",
+      "aliases": [
+        "mantis",
+        "mantid"
+      ]
+    },
+    {
+      "source_name": "n03393912",
+      "class_name": "freight_car",
+      "aliases": [
+        "freight car"
+      ]
+    },
+    {
+      "source_name": "n07583066",
+      "class_name": "guacamole",
+      "aliases": [
+        "guacamole"
+      ]
+    },
+    {
+      "source_name": "n04074963",
+      "class_name": "remote_control",
+      "aliases": [
+        "remote control",
+        "remote"
+      ]
+    },
+    {
+      "source_name": "n01629819",
+      "class_name": "European_fire_salamander",
+      "aliases": [
+        "European fire salamander",
+        "Salamandra salamandra"
+      ]
+    },
+    {
+      "source_name": "n09332890",
+      "class_name": "lakeside",
+      "aliases": [
+        "lakeside",
+        "lakeshore"
+      ]
+    },
+    {
+      "source_name": "n02481823",
+      "class_name": "chimpanzee",
+      "aliases": [
+        "chimpanzee",
+        "chimp",
+        "Pan troglodytes"
+      ]
+    },
+    {
+      "source_name": "n03902125",
+      "class_name": "pay-phone",
+      "aliases": [
+        "pay-phone",
+        "pay-station"
+      ]
+    },
+    {
+      "source_name": "n03404251",
+      "class_name": "fur_coat",
+      "aliases": [
+        "fur coat"
+      ]
+    },
+    {
+      "source_name": "n09193705",
+      "class_name": "alp",
+      "aliases": [
+        "alp"
+      ]
+    },
+    {
+      "source_name": "n03637318",
+      "class_name": "lampshade",
+      "aliases": [
+        "lampshade",
+        "lamp shade"
+      ]
+    },
+    {
+      "source_name": "n04456115",
+      "class_name": "torch",
+      "aliases": [
+        "torch"
+      ]
+    },
+    {
+      "source_name": "n02666196",
+      "class_name": "abacus",
+      "aliases": [
+        "abacus"
+      ]
+    },
+    {
+      "source_name": "n03796401",
+      "class_name": "moving_van",
+      "aliases": [
+        "moving van"
+      ]
+    },
+    {
+      "source_name": "n02795169",
+      "class_name": "barrel",
+      "aliases": [
+        "barrel",
+        "cask"
+      ]
+    },
+    {
+      "source_name": "n02123045",
+      "class_name": "tabby",
+      "aliases": [
+        "tabby",
+        "tabby cat"
+      ]
+    },
+    {
+      "source_name": "n01855672",
+      "class_name": "goose",
+      "aliases": [
+        "goose"
+      ]
+    },
+    {
+      "source_name": "n01882714",
+      "class_name": "koala",
+      "aliases": [
+        "koala",
+        "koala bear",
+        "kangaroo bear",
+        "native bear",
+        "Phascolarctos cinereus"
+      ]
+    },
+    {
+      "source_name": "n02917067",
+      "class_name": "bullet_train",
+      "aliases": [
+        "bullet train",
+        "bullet"
+      ]
+    },
+    {
+      "source_name": "n02988304",
+      "class_name": "CD_player",
+      "aliases": [
+        "CD player"
+      ]
+    },
+    {
+      "source_name": "n04398044",
+      "class_name": "teapot",
+      "aliases": [
+        "teapot"
+      ]
+    },
+    {
+      "source_name": "n02843684",
+      "class_name": "birdhouse",
+      "aliases": [
+        "birdhouse"
+      ]
+    },
+    {
+      "source_name": "n02423022",
+      "class_name": "gazelle",
+      "aliases": [
+        "gazelle"
+      ]
+    },
+    {
+      "source_name": "n02669723",
+      "class_name": "academic_gown",
+      "aliases": [
+        "academic gown",
+        "academic robe",
+        "judge's robe"
+      ]
+    },
+    {
+      "source_name": "n04465501",
+      "class_name": "tractor",
+      "aliases": [
+        "tractor"
+      ]
+    },
+    {
+      "source_name": "n02165456",
+      "class_name": "ladybug",
+      "aliases": [
+        "ladybug",
+        "ladybeetle",
+        "lady beetle",
+        "ladybird",
+        "ladybird beetle"
+      ]
+    },
+    {
+      "source_name": "n03770439",
+      "class_name": "miniskirt",
+      "aliases": [
+        "miniskirt",
+        "mini"
+      ]
+    },
+    {
+      "source_name": "n02099601",
+      "class_name": "golden_retriever",
+      "aliases": [
+        "golden retriever"
+      ]
+    },
+    {
+      "source_name": "n04486054",
+      "class_name": "triumphal_arch",
+      "aliases": [
+        "triumphal arch"
+      ]
+    },
+    {
+      "source_name": "n02950826",
+      "class_name": "cannon",
+      "aliases": [
+        "cannon"
+      ]
+    },
+    {
+      "source_name": "n03814639",
+      "class_name": "neck_brace",
+      "aliases": [
+        "neck brace"
+      ]
+    },
+    {
+      "source_name": "n04259630",
+      "class_name": "sombrero",
+      "aliases": [
+        "sombrero"
+      ]
+    },
+    {
+      "source_name": "n03424325",
+      "class_name": "gasmask",
+      "aliases": [
+        "gasmask",
+        "respirator",
+        "gas helmet"
+      ]
+    },
+    {
+      "source_name": "n02948072",
+      "class_name": "candle",
+      "aliases": [
+        "candle",
+        "taper",
+        "wax light"
+      ]
+    },
+    {
+      "source_name": "n03179701",
+      "class_name": "desk",
+      "aliases": [
+        "desk"
+      ]
+    },
+    {
+      "source_name": "n03400231",
+      "class_name": "frying_pan",
+      "aliases": [
+        "frying pan",
+        "frypan",
+        "skillet"
+      ]
+    },
+    {
+      "source_name": "n02206856",
+      "class_name": "bee",
+      "aliases": [
+        "bee"
+      ]
+    },
+    {
+      "source_name": "n03160309",
+      "class_name": "dam",
+      "aliases": [
+        "dam",
+        "dike",
+        "dyke"
+      ]
+    },
+    {
+      "source_name": "n01984695",
+      "class_name": "spiny_lobster",
+      "aliases": [
+        "spiny lobster",
+        "langouste",
+        "rock lobster",
+        "crawfish",
+        "crayfish",
+        "sea crawfish"
+      ]
+    },
+    {
+      "source_name": "n03977966",
+      "class_name": "police_van",
+      "aliases": [
+        "police van",
+        "police wagon",
+        "paddy wagon",
+        "patrol wagon",
+        "wagon",
+        "black Maria"
+      ]
+    },
+    {
+      "source_name": "n03584254",
+      "class_name": "iPod",
+      "aliases": [
+        "iPod"
+      ]
+    },
+    {
+      "source_name": "n04023962",
+      "class_name": "punching_bag",
+      "aliases": [
+        "punching bag",
+        "punch bag",
+        "punching ball",
+        "punchball"
+      ]
+    },
+    {
+      "source_name": "n02814860",
+      "class_name": "beacon",
+      "aliases": [
+        "beacon",
+        "lighthouse",
+        "beacon light",
+        "pharos"
+      ]
+    },
+    {
+      "source_name": "n01910747",
+      "class_name": "jellyfish",
+      "aliases": [
+        "jellyfish"
+      ]
+    },
+    {
+      "source_name": "n04596742",
+      "class_name": "wok",
+      "aliases": [
+        "wok"
+      ]
+    },
+    {
+      "source_name": "n03992509",
+      "class_name": "potter's_wheel",
+      "aliases": [
+        "potter's wheel"
+      ]
+    },
+    {
+      "source_name": "n04133789",
+      "class_name": "sandal",
+      "aliases": [
+        "sandal"
+      ]
+    },
+    {
+      "source_name": "n03937543",
+      "class_name": "pill_bottle",
+      "aliases": [
+        "pill bottle"
+      ]
+    },
+    {
+      "source_name": "n02927161",
+      "class_name": "butcher_shop",
+      "aliases": [
+        "butcher shop",
+        "meat market"
+      ]
+    },
+    {
+      "source_name": "n01945685",
+      "class_name": "slug",
+      "aliases": [
+        "slug"
+      ]
+    },
+    {
+      "source_name": "n02395406",
+      "class_name": "hog",
+      "aliases": [
+        "hog",
+        "pig",
+        "grunter",
+        "squealer",
+        "Sus scrofa"
+      ]
+    },
+    {
+      "source_name": "n02125311",
+      "class_name": "cougar",
+      "aliases": [
+        "cougar",
+        "puma",
+        "catamount",
+        "mountain lion",
+        "painter",
+        "panther",
+        "Felis concolor"
+      ]
+    },
+    {
+      "source_name": "n03126707",
+      "class_name": "crane",
+      "aliases": [
+        "crane"
+      ]
+    },
+    {
+      "source_name": "n04532106",
+      "class_name": "vestment",
+      "aliases": [
+        "vestment"
+      ]
+    },
+    {
+      "source_name": "n02268443",
+      "class_name": "dragonfly",
+      "aliases": [
+        "dragonfly",
+        "darning needle",
+        "devil's darning needle",
+        "sewing needle",
+        "snake feeder",
+        "snake doctor",
+        "mosquito hawk",
+        "skeeter hawk"
+      ]
+    },
+    {
+      "source_name": "n02977058",
+      "class_name": "cash_machine",
+      "aliases": [
+        "cash machine",
+        "cash dispenser",
+        "automated teller machine",
+        "automatic teller machine",
+        "automated teller",
+        "automatic teller",
+        "ATM"
+      ]
+    },
+    {
+      "source_name": "n07734744",
+      "class_name": "mushroom",
+      "aliases": [
+        "mushroom"
+      ]
+    },
+    {
+      "source_name": "n03599486",
+      "class_name": "jinrikisha",
+      "aliases": [
+        "jinrikisha",
+        "ricksha",
+        "rickshaw"
+      ]
+    },
+    {
+      "source_name": "n04562935",
+      "class_name": "water_tower",
+      "aliases": [
+        "water tower"
+      ]
+    },
+    {
+      "source_name": "n03014705",
+      "class_name": "chest",
+      "aliases": [
+        "chest"
+      ]
+    },
+    {
+      "source_name": "n04251144",
+      "class_name": "snorkel",
+      "aliases": [
+        "snorkel"
+      ]
+    },
+    {
+      "source_name": "n04356056",
+      "class_name": "sunglasses",
+      "aliases": [
+        "sunglasses",
+        "dark glasses",
+        "shades"
+      ]
+    },
+    {
+      "source_name": "n02190166",
+      "class_name": "fly",
+      "aliases": [
+        "fly"
+      ]
+    },
+    {
+      "source_name": "n03670208",
+      "class_name": "limousine",
+      "aliases": [
+        "limousine",
+        "limo"
+      ]
+    },
+    {
+      "source_name": "n02002724",
+      "class_name": "black_stork",
+      "aliases": [
+        "black stork",
+        "Ciconia nigra"
+      ]
+    },
+    {
+      "source_name": "n02074367",
+      "class_name": "dugong",
+      "aliases": [
+        "dugong",
+        "Dugong dugon"
+      ]
+    },
+    {
+      "source_name": "n04285008",
+      "class_name": "sports_car",
+      "aliases": [
+        "sports car",
+        "sport car"
+      ]
+    },
+    {
+      "source_name": "n04560804",
+      "class_name": "water_jug",
+      "aliases": [
+        "water jug"
+      ]
+    },
+    {
+      "source_name": "n04366367",
+      "class_name": "suspension_bridge",
+      "aliases": [
+        "suspension bridge"
+      ]
+    },
+    {
+      "source_name": "n02403003",
+      "class_name": "ox",
+      "aliases": [
+        "ox"
+      ]
+    },
+    {
+      "source_name": "n07615774",
+      "class_name": "ice_lolly",
+      "aliases": [
+        "ice lolly",
+        "lolly",
+        "lollipop",
+        "popsicle"
+      ]
+    },
+    {
+      "source_name": "n04501370",
+      "class_name": "turnstile",
+      "aliases": [
+        "turnstile"
+      ]
+    },
+    {
+      "source_name": "n03026506",
+      "class_name": "Christmas_stocking",
+      "aliases": [
+        "Christmas stocking"
+      ]
+    },
+    {
+      "source_name": "n02906734",
+      "class_name": "broom",
+      "aliases": [
+        "broom"
+      ]
+    },
+    {
+      "source_name": "n01770393",
+      "class_name": "scorpion",
+      "aliases": [
+        "scorpion"
+      ]
+    },
+    {
+      "source_name": "n04597913",
+      "class_name": "wooden_spoon",
+      "aliases": [
+        "wooden spoon"
+      ]
+    },
+    {
+      "source_name": "n03930313",
+      "class_name": "picket_fence",
+      "aliases": [
+        "picket fence",
+        "paling"
+      ]
+    },
+    {
+      "source_name": "n04118538",
+      "class_name": "rugby_ball",
+      "aliases": [
+        "rugby ball"
+      ]
+    },
+    {
+      "source_name": "n04179913",
+      "class_name": "sewing_machine",
+      "aliases": [
+        "sewing machine"
+      ]
+    },
+    {
+      "source_name": "n04311004",
+      "class_name": "steel_arch_bridge",
+      "aliases": [
+        "steel arch bridge"
+      ]
+    },
+    {
+      "source_name": "n02123394",
+      "class_name": "Persian_cat",
+      "aliases": [
+        "Persian cat"
+      ]
+    },
+    {
+      "source_name": "n04070727",
+      "class_name": "refrigerator",
+      "aliases": [
+        "refrigerator",
+        "icebox"
+      ]
+    },
+    {
+      "source_name": "n02793495",
+      "class_name": "barn",
+      "aliases": [
+        "barn"
+      ]
+    },
+    {
+      "source_name": "n02730930",
+      "class_name": "apron",
+      "aliases": [
+        "apron"
+      ]
+    },
+    {
+      "source_name": "n02094433",
+      "class_name": "Yorkshire_terrier",
+      "aliases": [
+        "Yorkshire terrier"
+      ]
+    },
+    {
+      "source_name": "n04371430",
+      "class_name": "swimming_trunks",
+      "aliases": [
+        "swimming trunks",
+        "bathing trunks"
+      ]
+    },
+    {
+      "source_name": "n04328186",
+      "class_name": "stopwatch",
+      "aliases": [
+        "stopwatch",
+        "stop watch"
+      ]
+    },
+    {
+      "source_name": "n03649909",
+      "class_name": "lawn_mower",
+      "aliases": [
+        "lawn mower",
+        "mower"
+      ]
+    },
+    {
+      "source_name": "n04417672",
+      "class_name": "thatch",
+      "aliases": [
+        "thatch",
+        "thatched roof"
+      ]
+    },
+    {
+      "source_name": "n03388043",
+      "class_name": "fountain",
+      "aliases": [
+        "fountain"
+      ]
+    },
+    {
+      "source_name": "n01774384",
+      "class_name": "black_widow",
+      "aliases": [
+        "black widow",
+        "Latrodectus mactans"
+      ]
+    },
+    {
+      "source_name": "n02837789",
+      "class_name": "bikini",
+      "aliases": [
+        "bikini",
+        "two-piece"
+      ]
+    },
+    {
+      "source_name": "n07579787",
+      "class_name": "plate",
+      "aliases": [
+        "plate"
+      ]
+    },
+    {
+      "source_name": "n04399382",
+      "class_name": "teddy",
+      "aliases": [
+        "teddy",
+        "teddy bear"
+      ]
+    },
+    {
+      "source_name": "n02791270",
+      "class_name": "barbershop",
+      "aliases": [
+        "barbershop"
+      ]
+    },
+    {
+      "source_name": "n03089624",
+      "class_name": "confectionery",
+      "aliases": [
+        "confectionery",
+        "confectionary",
+        "candy store"
+      ]
+    },
+    {
+      "source_name": "n02814533",
+      "class_name": "beach_wagon",
+      "aliases": [
+        "beach wagon",
+        "station wagon",
+        "wagon",
+        "estate car",
+        "beach waggon",
+        "station waggon",
+        "waggon"
+      ]
+    },
+    {
+      "source_name": "n04149813",
+      "class_name": "scoreboard",
+      "aliases": [
+        "scoreboard"
+      ]
+    },
+    {
+      "source_name": "n07747607",
+      "class_name": "orange",
+      "aliases": [
+        "orange"
+      ]
+    },
+    {
+      "source_name": "n03355925",
+      "class_name": "flagpole",
+      "aliases": [
+        "flagpole",
+        "flagstaff"
+      ]
+    },
+    {
+      "source_name": "n01983481",
+      "class_name": "American_lobster",
+      "aliases": [
+        "American lobster",
+        "Northern lobster",
+        "Maine lobster",
+        "Homarus americanus"
+      ]
+    },
+    {
+      "source_name": "n04487081",
+      "class_name": "trolleybus",
+      "aliases": [
+        "trolleybus",
+        "trolley coach",
+        "trackless trolley"
+      ]
+    },
+    {
+      "source_name": "n03250847",
+      "class_name": "drumstick",
+      "aliases": [
+        "drumstick"
+      ]
+    },
+    {
+      "source_name": "n03255030",
+      "class_name": "dumbbell",
+      "aliases": [
+        "dumbbell"
+      ]
+    },
+    {
+      "source_name": "n02892201",
+      "class_name": "brass",
+      "aliases": [
+        "brass",
+        "memorial tablet",
+        "plaque"
+      ]
+    },
+    {
+      "source_name": "n02883205",
+      "class_name": "bow_tie",
+      "aliases": [
+        "bow tie",
+        "bow-tie",
+        "bowtie"
+      ]
+    },
+    {
+      "source_name": "n03100240",
+      "class_name": "convertible",
+      "aliases": [
+        "convertible"
+      ]
+    },
+    {
+      "source_name": "n02415577",
+      "class_name": "bighorn",
+      "aliases": [
+        "bighorn",
+        "bighorn sheep",
+        "cimarron",
+        "Rocky Mountain bighorn",
+        "Rocky Mountain sheep",
+        "Ovis canadensis"
+      ]
+    },
+    {
+      "source_name": "n02480495",
+      "class_name": "orangutan",
+      "aliases": [
+        "orangutan",
+        "orang",
+        "orangutang",
+        "Pongo pygmaeus"
+      ]
+    },
+    {
+      "source_name": "n01698640",
+      "class_name": "American_alligator",
+      "aliases": [
+        "American alligator",
+        "Alligator mississipiensis"
+      ]
+    },
+    {
+      "source_name": "n01784675",
+      "class_name": "centipede",
+      "aliases": [
+        "centipede"
+      ]
+    },
+    {
+      "source_name": "n04376876",
+      "class_name": "syringe",
+      "aliases": [
+        "syringe"
+      ]
+    },
+    {
+      "source_name": "n03444034",
+      "class_name": "go-kart",
+      "aliases": [
+        "go-kart"
+      ]
+    },
+    {
+      "source_name": "n01917289",
+      "class_name": "brain_coral",
+      "aliases": [
+        "brain coral"
+      ]
+    },
+    {
+      "source_name": "n01950731",
+      "class_name": "sea_slug",
+      "aliases": [
+        "sea slug",
+        "nudibranch"
+      ]
+    },
+    {
+      "source_name": "n03042490",
+      "class_name": "cliff_dwelling",
+      "aliases": [
+        "cliff dwelling"
+      ]
+    },
+    {
+      "source_name": "n07711569",
+      "class_name": "mashed_potato",
+      "aliases": [
+        "mashed potato"
+      ]
+    },
+    {
+      "source_name": "n04532670",
+      "class_name": "viaduct",
+      "aliases": [
+        "viaduct"
+      ]
+    },
+    {
+      "source_name": "n03763968",
+      "class_name": "military_uniform",
+      "aliases": [
+        "military uniform"
+      ]
+    },
+    {
+      "source_name": "n07768694",
+      "class_name": "pomegranate",
+      "aliases": [
+        "pomegranate"
+      ]
+    },
+    {
+      "source_name": "n02999410",
+      "class_name": "chain",
+      "aliases": [
+        "chain"
+      ]
+    },
+    {
+      "source_name": "n03617480",
+      "class_name": "kimono",
+      "aliases": [
+        "kimono"
+      ]
+    },
+    {
+      "source_name": "n06596364",
+      "class_name": "comic_book",
+      "aliases": [
+        "comic book"
+      ]
+    },
+    {
+      "source_name": "n01768244",
+      "class_name": "trilobite",
+      "aliases": [
+        "trilobite"
+      ]
+    },
+    {
+      "source_name": "n02410509",
+      "class_name": "bison",
+      "aliases": [
+        "bison"
+      ]
+    },
+    {
+      "source_name": "n03976657",
+      "class_name": "pole",
+      "aliases": [
+        "pole"
+      ]
+    },
+    {
+      "source_name": "n01742172",
+      "class_name": "boa_constrictor",
+      "aliases": [
+        "boa constrictor",
+        "Constrictor constrictor"
+      ]
+    },
+    {
+      "source_name": "n03980874",
+      "class_name": "poncho",
+      "aliases": [
+        "poncho"
+      ]
+    },
+    {
+      "source_name": "n02808440",
+      "class_name": "bathtub",
+      "aliases": [
+        "bathtub",
+        "bathing tub",
+        "bath",
+        "tub"
+      ]
+    },
+    {
+      "source_name": "n02226429",
+      "class_name": "grasshopper",
+      "aliases": [
+        "grasshopper",
+        "hopper"
+      ]
+    },
+    {
+      "source_name": "n02231487",
+      "class_name": "walking_stick",
+      "aliases": [
+        "walking stick",
+        "walkingstick",
+        "stick insect"
+      ]
+    },
+    {
+      "source_name": "n02085620",
+      "class_name": "Chihuahua",
+      "aliases": [
+        "Chihuahua"
+      ]
+    },
+    {
+      "source_name": "n01644900",
+      "class_name": "tailed_frog",
+      "aliases": [
+        "tailed frog",
+        "bell toad",
+        "ribbed toad",
+        "tailed toad",
+        "Ascaphus trui"
+      ]
+    },
+    {
+      "source_name": "n02129165",
+      "class_name": "lion",
+      "aliases": [
+        "lion",
+        "king of beasts",
+        "Panthera leo"
+      ]
+    },
+    {
+      "source_name": "n02699494",
+      "class_name": "altar",
+      "aliases": [
+        "altar"
+      ]
+    },
+    {
+      "source_name": "n03837869",
+      "class_name": "obelisk",
+      "aliases": [
+        "obelisk"
+      ]
+    },
+    {
+      "source_name": "n02815834",
+      "class_name": "beaker",
+      "aliases": [
+        "beaker"
+      ]
+    },
+    {
+      "source_name": "n07720875",
+      "class_name": "bell_pepper",
+      "aliases": [
+        "bell pepper"
+      ]
+    },
+    {
+      "source_name": "n02788148",
+      "class_name": "bannister",
+      "aliases": [
+        "bannister",
+        "banister",
+        "balustrade",
+        "balusters",
+        "handrail"
+      ]
+    },
+    {
+      "source_name": "n02909870",
+      "class_name": "bucket",
+      "aliases": [
+        "bucket",
+        "pail"
+      ]
+    },
+    {
+      "source_name": "n03706229",
+      "class_name": "magnetic_compass",
+      "aliases": [
+        "magnetic compass"
+      ]
+    },
+    {
+      "source_name": "n07871810",
+      "class_name": "meat_loaf",
+      "aliases": [
+        "meat loaf",
+        "meatloaf"
+      ]
+    },
+    {
+      "source_name": "n03447447",
+      "class_name": "gondola",
+      "aliases": [
+        "gondola"
+      ]
+    },
+    {
+      "source_name": "n02113799",
+      "class_name": "standard_poodle",
+      "aliases": [
+        "standard poodle"
+      ]
+    },
+    {
+      "source_name": "n12267677",
+      "class_name": "acorn",
+      "aliases": [
+        "acorn"
+      ]
+    },
+    {
+      "source_name": "n03662601",
+      "class_name": "lifeboat",
+      "aliases": [
+        "lifeboat"
+      ]
+    },
+    {
+      "source_name": "n02841315",
+      "class_name": "binoculars",
+      "aliases": [
+        "binoculars",
+        "field glasses",
+        "opera glasses"
+      ]
+    },
+    {
+      "source_name": "n07715103",
+      "class_name": "cauliflower",
+      "aliases": [
+        "cauliflower"
+      ]
+    },
+    {
+      "source_name": "n02504458",
+      "class_name": "African_elephant",
+      "aliases": [
+        "African elephant",
+        "Loxodonta africana"
+      ]
+    }
+  ]
+}

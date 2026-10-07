@@ -1,0 +1,10 @@
+{
+  "dataset": "ucf101",
+  "split_id": 1,
+  "fewshot_shots": 5,
+  "fewshot_seed": 42,
+  "counts": {
+    "ucf101_split01_train_5shots": 505
+  },
+  "note": "This package ships UCF101 split-01 assets only."
+}
